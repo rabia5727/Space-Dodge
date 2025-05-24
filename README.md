@@ -24,3 +24,33 @@ Make sure you have Python and Pygame installed.
 
 ```bash
 pip install pygame
+🤝 Contributing
+This is a beginner-friendly open-source project! 🌱
+If you're learning or want to help improve the game, you're more than welcome!
+
+To contribute:
+
+Fork this repository
+
+Clone your fork
+
+Make your changes
+
+Push and create a pull request
+
+You can help by:
+
+Improving graphics
+
+Adding sound effects
+
+Refactoring code
+
+Creating new features or levels
+
+Let's build this together! 💪
+
+📄 License
+This project is open-source and free to use.
+You can use the code, modify it, or build upon it — just give credit. 🙏
+
