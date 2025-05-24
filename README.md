@@ -1,5 +1,3 @@
----
-
 # 🚀 Space Dodge
 
 **Space Dodge** is a beginner-friendly space dodging game built using **Python** and **Pygame**.
